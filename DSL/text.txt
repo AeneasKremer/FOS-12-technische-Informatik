@@ -1,0 +1,10 @@
+Sep 7 20:02:30 linux98 pppd[3329]: Connection terminated
+Sep 7 20:02:30 linux98 ppd[3329]: Connect time 2.5 minutes
+Sep 7 20:02:30 linux98 ppd[3329]: Sent 127052 bytes, received 552583 bytes
+Sep 7 20:02:30 linux98 pppd[3329]: Connection terminated
+Sep 7 20:02:30 linux98 ppd[3329]: Connect time 2.5 minutes
+Sep 7 20:02:30 linux98 ppd[3329]: Sent 127052 bytes, received 552583 bytes
+Sep 7 20:02:30 linux98 pppd[3329]: Connection terminated
+Sep 7 20:02:30 linux98 ppd[3329]: Connect time 2.5 minutes
+Sep 7 20:02:30 linux98 ppd[3329]: Sent 127052 bytes, received 552583 bytes
+
